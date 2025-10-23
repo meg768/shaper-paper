@@ -1,4 +1,4 @@
-# 🪚 Shaper Paper
+# Shaper Paper
 
 **Reusable A4-based ShaperTape system — verified to work with Shaper Origin.**
 
@@ -10,9 +10,9 @@ This project demonstrates that you can scan, print and reuse genuine ShaperTape 
 
 Just for fun (and curiosity), I decided to test whether **Xerox copies** or **scanned/printed versions** of original ShaperTape would still work with the Shaper Origin.
 
-✅ Spoiler: **It works perfectly.**
+**It works perfectly.**
 
-This repo provides a ready-to-print PDF (`ShaperTape-AtoD.pdf`) containing four A4 sheets of genuine ShaperTape markers.  
+This repo provides a ready-to-print PDF containing four A4 sheets of genuine ShaperTape markers.  
 Each page contains enough “dominos” for most Origin projects.
 
 ---
