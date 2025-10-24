@@ -75,3 +75,6 @@ Use at your own risk — it worked flawlessly for me, but your results may vary 
 
 - [Shaper Community Thread – Xeroxed Shaper Tape (2025)](https://community.shapertools.com/t/xeroxed-shaper-tape-tested-and-working/15207)
 - [Shaper Origin](https://www.shapertools.com)
+
+**Trademarks:** “Shaper” and “ShaperTape” are trademarks of Shaper Tools. This project is independent and not affiliated with Shaper Tools.
+
