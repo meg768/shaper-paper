@@ -22,21 +22,17 @@ Each page contains enough “dominos” for most Origin projects.
 1. **Original material:**  
    - Four A4 sheets covered with original ShaperTape (labeled A–D).  
    - All markers taken from the same ShaperTape roll.
-
 2. **Scanning process:**  
    - Scanner: *Canon TS7450i*  
    - Mode: **Text**  
    - Resolution: **600 dpi**  
-   - Scale: **100 % (actual size)**  
-   - Color: **Grayscale**  
-
+   - Scale: **100 % (actual size)**    
 3. **PDF creation:**  
    - Combined all four scanned pages into a single PDF using macOS Preview.  
    - No compression or rescaling applied.
-
 4. **Printing:**  
    - Printed on **matte self-adhesive A4 paper** (Kjell & Co, Sweden).  
-   - Alternatively: plain A4 + double-sided tape.  
+   - Alternatively: plain A4 + tape.  
    - Printer setting: **Scale = 100 %**, *no “fit to page”*.
 
 ---
@@ -54,4 +50,4 @@ Each page contains enough “dominos” for most Origin projects.
 
 - Each page (A–D) contains **unique** domino codes from a single original roll.  
 - Don’t mix originals and copies in the same scan.  
-- Keep scanning and printing at **exact 100 % scal**
+- Keep scanning and printing at **exact 100 % scale**
