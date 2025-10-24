@@ -31,7 +31,7 @@ Each page contains enough “dominos” for most Origin projects.
    - Combined all four scanned pages into a single PDF using macOS Preview.  
    - No compression or rescaling applied.
 4. **Printing:**  
-   - Printed on **matte self-adhesive A4 paper** (https://www.kjell.com/se/produkter/kontor/markning/etiketter/herma-sjalvhaftande-skrivarpapper-a4-25-pack-temporar-p25133). 
+   - Printed on **matte self-adhesive A4 paper** from [Kjell & Co in Sweden](https://www.kjell.com/se/produkter/kontor/markning/etiketter/herma-sjalvhaftande-skrivarpapper-a4-25-pack-temporar-p25133). 
    - Alternatively: plain A4 + tape.  
    - Printer setting: **Scale = 100 %**, *no “fit to page”*.
 
@@ -74,4 +74,4 @@ Use at your own risk — it worked flawlessly for me, but your results may vary 
 ## Links
 
 - [Shaper Community Thread – Xeroxed Shaper Tape (2025)](https://community.shapertools.com/t/xeroxed-shaper-tape-tested-and-working/15207)
-- [Shaper Origin](https://www.shapertools.com/)
+- [Shaper Origin](https://www.shapertools.com)
